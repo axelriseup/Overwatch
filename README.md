@@ -1,11 +1,13 @@
 # Overwatch
 Dedicated LNBits Overview. Focus on accounting and tax report
 
+
+
 Introducing the Overwatch Extension: Your Comprehensive Financial Overview Tool
 
 The Overwatch Extension is designed to offer users a streamlined and insightful view of their financial transactions, enabling better financial management and oversight. This powerful tool not only provides a detailed summary of incoming and outgoing funds but also allows you to track your accumulated balance over time. Here's how to get started and make the most of the Overwatch Extension:
 
-Accessing Overwatch
+#### Accessing Overwatch
 
 - Sharable Link: The Overwatch Extension is accessible via a sharable link, meaning you can open it on any device with a browser. This makes it incredibly convenient to check your financial overview on the go, whether you're using a smartphone, tablet, or desktop computer.
 
@@ -19,19 +21,19 @@ Features & Functionalities
 
 - Export Tax Reports: Prepare for tax season without the hassle. Overwatch enables you to export tax reports as either CSV or PDF files. You have the flexibility to select the time frame for these reports, whether it's a specific month, the entire year, or all your recorded transactions.
 
-Exporting Reports
+#### Exporting Reports
 
 1. Select Report Type: Choose between CSV or PDF formats based on your preference or requirements.
 2. Choose Time Frame: Specify the period for the report you wish to download—select from a specific month, the whole year, or all transactions.
 3. Download: Once you've made your selections, simply download the report for your records or tax preparation needs.
 
-Limitations
+#### Limitations
 
 It's important to note that the Overwatch Extension is designed for overview purposes only. While you can view all transactions and financial summaries, the extension does not support the ability to send funds.
 
 
 
-Getting Started
+#### Getting Started
 
 To start using the Overwatch Extension, follow these simple steps:
 
