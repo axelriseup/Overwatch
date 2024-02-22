@@ -1,5 +1,5 @@
 # Overwatch
-Dedicated LNBits Overview. Focus on accounting and tax report
+Dedicated LNBits Overview. Focus on easy accounting and tax report
 
 
 
