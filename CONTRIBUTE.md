@@ -1,5 +1,5 @@
 #### Whats going on here
-I´m on the hunt for a visionary developer to take on the challenge of creating the "Overwatch" Extension, with a bounty target of 800.000 sats!
+I´m on the hunt for a visionary developer to take on the challenge of creating the "Overwatch" Extension, with a bounty target of 630.000 sats!
 
 This project aims to revolutionize financial management within the LNBits ecosystem, focusing on detailed accounting and tax reporting. If you're passionate and have the skills to build innovative financial solutions, 
 join in and develop this crucial extension. Your contribution will not only advance the LNBits platform but also earn you a significant reward. Let's innovate together and make financial oversight seamless and efficient!
