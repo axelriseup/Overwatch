@@ -30,6 +30,7 @@ Features & Functionalities
 #### Limitations
 
 It's important to note that the Overwatch Extension is designed for overview purposes only. While you can view all transactions and financial summaries, the extension does not support the ability to send funds.
+This ensures that your overview is a secure and efficient tool for financial management, without the risk associated with transactional capabilities.
 
 
 
