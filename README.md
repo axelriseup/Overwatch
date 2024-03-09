@@ -52,4 +52,4 @@ The Overwatch Extension is your all-in-one tool for financial monitoring and rep
 Add diagrams
 
 - Visiualizing the Wallet performance with easy readable Graphs/Cake diagrams etc. (No Overload - Keep it clean)
-  --> Option to visiualize specified products only. This would open new information input for products which would perhaps be advertised in a specified timeslot.
+- Option to visiualize specified products only. This would open new information input for products which would perhaps be advertised in a specified timeslot.
