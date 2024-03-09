@@ -44,3 +44,12 @@ To start using the Overwatch Extension, follow these simple steps:
 4. Export Reports: Take advantage of the export feature to generate tax reports or keep personal records of your financial history.
 
 The Overwatch Extension is your all-in-one tool for financial monitoring and reporting. Get started today to simplify your financial management and gain invaluable insights into your financial health.
+
+
+
+#### Approaches to expansion for the future
+
+Add diagrams
+
+- Visiualizing the Wallet performance with easy readable Graphs/Cake diagrams etc. (No Overload - Keep it clean)
+  --> Option to visiualize specified products only. This would open new information input for products which would perhaps be advertised in a specified timeslot.
