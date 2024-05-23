@@ -54,3 +54,6 @@ Add diagrams
 - Visiualizing the Wallet performance with easy readable Graphs/Cake diagrams etc. (No Overload - Keep it clean)
 - Option to visiualize specified products only. This would open new information input for products which would perhaps be advertised in a specified timeslot (fullfilled marketing aspect).
 - Choice of different user interface colors. Must be user specific cached in browser.
+
+#### Adressed for main use
+- Merchants
