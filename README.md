@@ -1,5 +1,6 @@
 # Overwatch
-Dedicated LNBits Overview. Focus on easy accounting and tax report (variable tx reports)
+# A Shareable LNBits Wallet Overview that doesn't need to be installed and can run in the browser!
+Focus on easy accounting and tax report (variable tx reports)
 
 
 
