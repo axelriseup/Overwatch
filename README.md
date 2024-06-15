@@ -63,7 +63,4 @@ The Overwatch Extension is your all-in-one tool for financial monitoring and rep
 
 - **Merchants**
 
----
-
-*Note: This README is structured to provide a clear and comprehensive overview of the Overwatch Extension, making it easy for users to understand its features and functionalities.*
 
