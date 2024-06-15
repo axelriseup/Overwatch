@@ -1,5 +1,5 @@
 # Overwatch
-# A Shareable LNBits Wallet Overview that doesn't need to be installed and can run in the browser!
+# A Shareable LNBits Wallet Overview which can run in every browser!
 Focus on easy accounting and tax report (variable tx reports)
 
 
