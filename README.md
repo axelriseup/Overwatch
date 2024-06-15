@@ -33,7 +33,7 @@ The Overwatch Extension is designed to offer users a streamlined and insightful 
 
 ## Exporting Reports
 
-1. **Select Report Type**: Choose between CSV or PDF formats based on your preference or requirements.
+1. **Select Report Type**: Reports are available in CSV format for easy use and compatibility.
 2. **Choose Time Frame**: Specify the period for the report you wish to download—select from a specific month, the whole year, or all transactions.
 3. **Download**: Once you've made your selections, simply download the report for your records or tax preparation needs.
 
