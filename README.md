@@ -20,7 +20,7 @@ Features & Functionalities
 
 - Accumulated Balance: Overwatch gives you an up-to-date overview of your accumulated balance, allowing you to track your financial health over time. This is particularly useful for budgeting and financial planning purposes.
 
-- Export Tax Reports: Prepare for tax season without the hassle. Overwatch enables you to export tax reports as either CSV or PDF files. You have the flexibility to select the time frame for these reports, whether it's a specific month, the entire year, or all your recorded transactions.
+- Export Tax Reports: Prepare for tax season without the hassle. Overwatch enables you to export tax reports in CSV file. You have the flexibility to select the time frame for these reports, whether it's a specific month, the entire year, or all your recorded transactions.
 
 #### Exporting Reports
 
@@ -50,11 +50,10 @@ The Overwatch Extension is your all-in-one tool for financial monitoring and rep
 
 #### Approaches to expansion for the future
 
-Add diagrams
-
-- Visiualizing the Wallet performance with easy readable Graphs/Cake diagrams etc. (No Overload - Keep it clean)
-- Option to visiualize specified products only. This would open new information input for products which would perhaps be advertised in a specified timeslot (fullfilled marketing aspect).
-- Choice of different user interface colors. Must be user specific cached in browser.
+- Visiualizing the Wallet performance with easy readable **Graphs/Cake diagrams** etc. (No Overload - Keep it clean)
+- Option to **visiualize specified products** only. This would open new information input for products which would perhaps be advertised in a specified timeslot **(fullfilled marketing aspect)**.
+- Choice of **different user interface colors**. Must be user specific cached in browser.
+- Add **CSV DATEV record structure** https://developer.datev.de/datev/platform/en/dtvf
 
 #### Adressed for main use
 - Merchants
