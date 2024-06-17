@@ -12,6 +12,11 @@
 6. [Getting Started](#getting-started)
 7. [Approaches to Expansion for the Future](#approaches-to-expansion-for-the-future)
 8. [Addressed for Main Use](#addressed-for-main-use)
+   
+## Dashboard
+
+![bsp](https://github.com/DoktorShift/Overwatch/assets/106493492/e8e5e53e-1cc0-45b5-9287-e21db59b3600)
+
 
 ## Introducing the Overwatch Extension: Your Comprehensive Financial Overview Tool
 
