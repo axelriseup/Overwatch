@@ -15,7 +15,8 @@
    
 ## Dashboard
 
-![bsp](https://github.com/DoktorShift/Overwatch/assets/106493492/e8e5e53e-1cc0-45b5-9287-e21db59b3600)
+![Overwatch_v1](https://github.com/DoktorShift/Overwatch/assets/106493492/4566dddb-d06e-4f71-8f95-878587baf490)
+
 
 
 ## Introducing the Overwatch Extension: Your Comprehensive Financial Overview Tool
@@ -46,6 +47,9 @@ The Overwatch Extension is designed to offer users a streamlined and insightful 
 
 It's important to note that the Overwatch Extension is designed for overview purposes only. While you can view all transactions and financial summaries, the extension does not support the ability to send funds. This ensures that your overview is a secure and efficient tool for financial management without the risk associated with transactional capabilities.
 
+**Addable feature**:
+Created TPoS can be included. This enables __Overwatch__ to transfor in a accounting and invoicing tool.
+
 ## Getting Started
 
 To start using the Overwatch Extension, follow these simple steps:
@@ -60,12 +64,17 @@ The Overwatch Extension is your all-in-one tool for financial monitoring and rep
 ## Approaches to Expansion for the Future
 
 - Visualizing the wallet performance with easy-to-read graphs and pie charts (No Overload - Keep it clean).
-- Option to visualize specified products only. This would open new information input for products which could perhaps be advertised in a specified timeslot (fulfilled marketing aspect).
+
+- Option to visualize specified products only (Listed products by LNBits TPoS or external pay Plugins for WooCommerce, Shopify etc.). This would open new information input for products which could perhaps be advertised in a specified timeslot which would fulfill marketing aspect.
+
 - Choice of different user interface colors, which must be user-specific and cached in the browser.
+
 - Add CSV DATEV record structure: [DATEV Developer Platform](https://developer.datev.de/datev/platform/en/dtvf).
 
 ## Addressed for Main Use
 
-- **Merchants**
+- **Merchants & eCommerce**
+
+- **However, it is also suited for individual users.**
 
 
