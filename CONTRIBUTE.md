@@ -1,6 +1,6 @@
 #### Whats going on here
 
-This project aims to simplify financial management within the LNBits ecosystem, focusing on detailed accounting and reporting. If you're passionate and have the skills to build an LNBits extension out of it,
+This project (v1.0 Codebase) aims to simplify financial management within the LNBits ecosystem, focusing on detailed accounting and reporting. If you're passionate and have the skills to build an LNBits extension out of it,
 join in and develop this crucial extension. 
 Your contribution will not only advance the LNBits platform but also earn you a significant reward.
 
