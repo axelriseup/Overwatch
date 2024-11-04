@@ -1,6 +1,4 @@
-# Overwatch Extension
-
-# A Shareable LNBits Wallet Overview that can run in every browser!
+# A Single-Page Application (SPA) for LNbits that can run in every browser!
 
 ## Table of Contents
 
@@ -12,20 +10,26 @@
 6. [Getting Started](#getting-started)
 7. [Approaches to Expansion for the Future](#approaches-to-expansion-for-the-future)
 8. [Addressed for Main Use](#addressed-for-main-use)
-   
+
+---
+
 ## Dashboard
 
 ![Overwatch_v1](https://github.com/DoktorShift/Overwatch/assets/106493492/4566dddb-d06e-4f71-8f95-878587baf490)
 
-
+---
 
 ## Introducing the Overwatch Extension: Your Comprehensive Financial Overview Tool
 
-The Overwatch Extension is designed to offer users a streamlined and insightful view of their financial transactions, enabling better financial management and oversight. This powerful tool provides a detailed summary of incoming and outgoing funds and allows you to track your accumulated balance over time. Here's how to get started and make the most of the Overwatch Extension:
+The Overwatch SPA is designed to offer users a streamlined and insightful view of their financial transactions, enabling better financial management and oversight. This powerful tool provides a detailed summary of incoming and outgoing funds and allows you to track your accumulated balance over time. Here's how to get started and make the most of the Overwatch Extension:
+
+---
 
 ## Accessing Overwatch
 
 - **Sharable Link**: The Overwatch Extension is accessible via a sharable link, meaning you can open it on any device with a browser. This makes it incredibly convenient to check your financial overview on the go, whether you're using a smartphone, tablet, or desktop computer.
+
+---
 
 ## Features & Functionalities
 
@@ -37,18 +41,24 @@ The Overwatch Extension is designed to offer users a streamlined and insightful 
 
 - **Export Tax Reports**: Prepare for tax season without the hassle. Overwatch enables you to export tax reports in CSV format. You have the flexibility to select the time frame for these reports, whether it's a specific month, the entire year, or all your recorded transactions.
 
+---
+
 ## Exporting Reports
 
 1. **Select Report Type**: Reports are available in CSV format for easy use and compatibility.
 2. **Choose Time Frame**: Specify the period for the report you wish to download—select from a specific month, the whole year, or all transactions.
 3. **Download**: Once you've made your selections, simply download the report for your records or tax preparation needs.
 
+---
+
 ## Limitations
 
 It's important to note that the Overwatch Extension is designed for overview purposes only. While you can view all transactions and financial summaries, the extension does not support the ability to send funds. This ensures that your overview is a secure and efficient tool for financial management without the risk associated with transactional capabilities.
 
-**Addable feature**:
-Created TPoS can be included. This enables __Overwatch__ to transfor in a accounting and invoicing tool.
+**Addable Feature**:
+Already created LNbits TPoS can be included. This enables **Overwatch** to transform into an accounting and invoicing tool.
+
+---
 
 ## Getting Started
 
@@ -61,20 +71,22 @@ To start using the Overwatch Extension, follow these simple steps:
 
 The Overwatch Extension is your all-in-one tool for financial monitoring and reporting. Get started today to simplify your financial management and gain invaluable insights into your financial health.
 
+---
+
 ## Approaches to Expansion for the Future
 
 - Visualizing the wallet performance with easy-to-read graphs and pie charts (No Overload - Keep it clean).
 
-- Option to visualize specified products only (Listed products by LNBits TPoS or external pay Plugins for WooCommerce, Shopify etc.). This would open new information input for products which could perhaps be advertised in a specified timeslot which would fulfill marketing aspect.
+- Option to visualize specified products only (Listed products by LNbits TPoS or external pay Plugins for WooCommerce, Shopify, etc.). This would open new information input for products which could perhaps be advertised in a specified timeslot, fulfilling a marketing aspect.
 
-- Choice of different user interface colors, which must be user-specific and cached in the browser.
+- Choice of different user interface colors, which should be user-specific and cached in the browser.
 
 - Add CSV DATEV record structure: [DATEV Developer Platform](https://developer.datev.de/datev/platform/en/dtvf).
+
+---
 
 ## Addressed for Main Use
 
 - **Merchants & eCommerce**
 
 - **However, it is also suited for individual users.**
-
-
