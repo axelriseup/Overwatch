@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [Introducing the Overwatch Extension](#introducing-the-overwatch-extension)
+1. [Introducing Overwatch](#introducing-overwatch)
 2. [Accessing Overwatch](#accessing-overwatch)
 3. [Features & Functionalities](#features--functionalities)
 4. [Exporting Reports](#exporting-reports)
@@ -19,7 +19,7 @@
 
 ---
 
-## Introducing the Overwatch Extension: Your Comprehensive Financial Overview Tool
+## Introducing Overwatch: Your Comprehensive Financial Overview Tool
 
 The Overwatch SPA is designed to offer users a streamlined and insightful view of their financial transactions, enabling better financial management and oversight. This powerful tool provides a detailed summary of incoming and outgoing funds and allows you to track your accumulated balance over time. Here's how to get started and make the most of the Overwatch Extension:
 
