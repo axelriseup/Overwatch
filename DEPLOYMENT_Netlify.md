@@ -38,7 +38,7 @@ The Overwatch Extension is a Single-Page Application (SPA) for LNbits, designed 
 ---
 
 ### Configuration
-To enable Overwatch to connect to your specific LNbits instance, ensure the URL configuration points to your server. This makes all Overwatch features accessible.
+To enable Overwatch to connect to your specific LNbits instance, ensure the URL configuration points to your server.
 
 ---
 
