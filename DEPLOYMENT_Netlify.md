@@ -38,8 +38,6 @@ Keep sure that you have added the LNBits URL to match your server. Change them i
 5. **Deploy**:  
    Click **"Deploy Site"**. Netlify will handle the build and provide a link to your live site once complete.
 
-6. **Configure the URL**:
-   Once deployed, you may need to update the URL in the app's configuration to match your LNbits instance if not using the default. Modify the `config.js` or similar file, and push the changes if using GitHub, or re-upload the project to Netlify if working locally.
 
 ---
 
