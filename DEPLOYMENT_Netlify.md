@@ -10,6 +10,12 @@
 
 ### Introduction
 The Overwatch Extension is a Single-Page Application (SPA) for LNbits, designed to work directly in any browser. Deploying on Netlify is an easy, user-friendly option that requires no server management and minimal setup.
+---
+### Before Starting Deploy
+
+Keep sure that you have added the LNBits URL to match your server. Change them in all this files provided in the Screenshot.
+
+![Screenshot from 2024-11-30 06-03-16](https://github.com/user-attachments/assets/2019bc54-8bb0-49d4-88c6-b42284ee144a)
 
 ---
 
