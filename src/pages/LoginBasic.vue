@@ -67,7 +67,7 @@ export default defineComponent({
         'password': this.password
       }
 
-      axios.post('https://naughtify.ereignishorizont.xyz/api/v1/auth', data)
+      axios.post('https://blitzbank.ereignishorizont.xyz/api/v1/auth', data)
         .then(response => {
           this.$store.setLoginSession(response.data);
           this.$router.push('/')

@@ -563,7 +563,7 @@ export default defineComponent({
       let headers = {
         'Authorization': `Bearer ${this.$store.session.access_token}`,
       }
-      axios.get('https://naughtify.ereignishorizont.xyz/api/v1/currencies', {headers})
+      axios.get('https://blitzbank.ereignishorizont.xyz/api/v1/currencies', {headers})
         .then(response => {
           this.currencies = response.data;
         })
@@ -572,15 +572,15 @@ export default defineComponent({
         });
     },
     openTPos(){
-      // https://naughtify.ereignishorizont.xyz/tpos/VJTMprkzXpXdUetZfydXyc
-      window.open(`https://naughtify.ereignishorizont.xyz/tpos/${this.selected_tpo.id}`, '_blank');
+      // https://blitzbank.ereignishorizont.xyz/tpos/VJTMprkzXpXdUetZfydXyc
+      window.open(`https://blitzbank.ereignishorizont.xyz/tpos/${this.selected_tpo.id}`, '_blank');
       this.selected_tpo = ''
     },
     getTPOS(){
       let headers = {
         'X-Api-Key': this.selectedWallet.inkey
       }
-      axios.get('https://naughtify.ereignishorizont.xyz/tpos/api/v1/tposs', {headers})
+      axios.get('https://blitzbank.ereignishorizont.xyz/tpos/api/v1/tposs', {headers})
         .then(response => {
           this.tops = response.data;
           console.log(response.data);
@@ -609,7 +609,7 @@ export default defineComponent({
         amount: this.balance,
         to: "eur"
       }
-      axios.post('https://naughtify.ereignishorizont.xyz/api/v1/conversion', data, {headers})
+      axios.post('https://blitzbank.ereignishorizont.xyz/api/v1/conversion', data, {headers})
         .then(response => {
           this.balancetotaleuroamount = response.data.EUR
         })
@@ -626,7 +626,7 @@ export default defineComponent({
         amount: this.incomingtotalamount_final,
         to: "eur"
       }
-      axios.post('https://naughtify.ereignishorizont.xyz/api/v1/conversion', data, {headers})
+      axios.post('https://blitzbank.ereignishorizont.xyz/api/v1/conversion', data, {headers})
         .then(response => {
           this.incomingtotalamount_final_eur = response.data.EUR
         })
@@ -643,7 +643,7 @@ export default defineComponent({
         amount: this.outgoingtotal_final,
         to: "eur"
       }
-      axios.post('https://naughtify.ereignishorizont.xyz/api/v1/conversion', data, {headers})
+      axios.post('https://blitzbank.ereignishorizont.xyz/api/v1/conversion', data, {headers})
         .then(response => {
           this.outgoingtotal_final_eur = response.data.EUR
         })
@@ -669,7 +669,7 @@ export default defineComponent({
         usr: this.user_id
       };
 
-      axios.get('https://naughtify.ereignishorizont.xyz/api/v1/payments', {headers, params})
+      axios.get('https://blitzbank.ereignishorizont.xyz/api/v1/payments', {headers, params})
         .then(response => {
           this.transactions = response.data;
           this.incomingtotalamount_final = this.transactions.reduce((acc, transaction) => {
@@ -751,7 +751,7 @@ export default defineComponent({
               amount: amount,
               to: "eur"
             };
-            axios.post('https://naughtify.ereignishorizont.xyz/api/v1/conversion', data, {headers})
+            axios.post('https://blitzbank.ereignishorizont.xyz/api/v1/conversion', data, {headers})
               .then(response => {
                 callback(response.data.EUR);
               })
@@ -793,7 +793,7 @@ export default defineComponent({
         'Authorization': `Bearer ${this.$store.session.access_token}`,
         "X-Api-Key": this.selectedWallet.adminkey
       }
-      axios.get('https://naughtify.ereignishorizont.xyz/api/v1/wallet', {headers})
+      axios.get('https://blitzbank.ereignishorizont.xyz/api/v1/wallet', {headers})
         .then(response => {
           this.balance = response.data.balance / 1000;
           this.convertAmount();
@@ -822,7 +822,7 @@ export default defineComponent({
         cookie_access_token: this.$store.session.access_token
       }
 
-      axios.get('https://naughtify.ereignishorizont.xyz/api/v1/wallets', {headers, params})
+      axios.get('https://blitzbank.ereignishorizont.xyz/api/v1/wallets', {headers, params})
         .then(response => {
           this.wallets = response.data;
           this.selectedWallet = this.wallets[0];

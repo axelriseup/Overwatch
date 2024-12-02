@@ -364,7 +364,7 @@ export default defineComponent({
       let headers = {
         'Authorization': `Bearer ${this.$store.session.access_token}`,
       }
-      axios.get('https://naughtify.ereignishorizont.xyz/api/v1/currencies', {headers})
+      axios.get('https://blitzbank.ereignishorizont.xyz/api/v1/currencies', {headers})
         .then(response => {
           this.currencies = response.data;
           this.selected_currency = 'USD'
